@@ -1,0 +1,27 @@
+{
+  "name": "curso-de-ecmascript-historia-y-versiones-de-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleBigPants/Curso-de-ECMAScript-Historia-y-Versiones-de-JavaScript.git"
+  },
+  "keywords": [
+    "ecmascript",
+    "historia"
+  ],
+  "author": "Juan Manuel Garcia",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LittleBigPants/Curso-de-ECMAScript-Historia-y-Versiones-de-JavaScript/issues"
+  },
+  "homepage": "https://github.com/LittleBigPants/Curso-de-ECMAScript-Historia-y-Versiones-de-JavaScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
